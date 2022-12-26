@@ -1,0 +1,58 @@
+body{
+background-image: url(../images/souleater.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#pramudartamanhodealgo{
+
+    width: 10px;
+    height: 10px;
+}
+
+#tentando{
+background-image: url(../images/roblox.png)
+
+}
+
+#principal{
+    color: darkred;
+    background-color: aliceblue;
+}
+
+#subtitulo{
+ background-image: url(../images/roblox.png)
+
+}
+
+.texto_verde{
+    color: darkgreen;
+
+}
+
+.container{
+    width: 300px;
+    height: 100px;
+    background: red;
+    margin-top: 10px;
+    margin-left: 10px
+    /*padding-top:  10px*/;
+
+}
+
+
+.inside{
+     width: 100%;
+     background: blueviolet;
+
+}
+
+
+.bordas{
+
+    
+    border-width: 10px;
+    border-style: solid;
+    border-color: yellowgreen;
+}
